@@ -26,7 +26,7 @@ reliability and throughput challenges for high-demand attractions.
 • Higher attraction wait times did not consistently reduce guest satisfaction, indicating that strong attraction demand and perceived 
 experience value may offset queue frustration.
 
-<img width="1087" height="745" alt="image" src="https://github.com/user-attachments/assets/d3cb694b-c486-4f33-a5a6-87448b14f901" />
+<img width="1087" height="745" alt="image" src="https://github.com/user-attachments/assets/8b268e66-69a0-4189-80fd-e6b8af43a5fb" />
 
 
 Live Dashboard:
