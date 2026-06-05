@@ -27,6 +27,7 @@ reliability and throughput challenges for high-demand attractions.
 experience value may offset queue frustration.
 
 <img width="1217" height="835" alt="image" src="https://github.com/user-attachments/assets/045a846f-c38d-4af6-9a27-27e13d758e3d" />
+*This project is an independent portfolio project and is not affiliated with, endorsed by, or sponsored by The Walt Disney Company. All datasets and metrics are fictional and were created for educational and portfolio demonstration purposes only.
 
 
 
