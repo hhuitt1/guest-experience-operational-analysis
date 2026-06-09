@@ -36,4 +36,4 @@ View Interactive Dashboard:
 
 [Tableau Public Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/GuestExperienceOperationalPerformanceDashboard/Dashboard1)
 
-![Luxury Resort Dashboard](Dashboard.png)
+![Luxury Resort Dashboard](dashboard.png)
