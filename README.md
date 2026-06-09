@@ -25,10 +25,15 @@ reliability and throughput challenges for high-demand attractions.
 > Higher attraction wait times did not consistently reduce guest satisfaction, indicating that strong attraction demand and perceived 
 experience value may offset queue frustration.
 
-<img width="1217" height="835" alt="image" src="https://github.com/user-attachments/assets/045a846f-c38d-4af6-9a27-27e13d758e3d" />
+
 *This project is an independent portfolio project and is not affiliated with, endorsed by, or sponsored by The Walt Disney Company. All datasets and metrics are fictional and were created for educational and portfolio demonstration purposes only.
 
 
 
-### Live Dashboard:
-https://public.tableau.com/app/profile/haley.huitt/viz/GuestExperienceOperationalPerformanceDashboard/Dashboard1
+### Tableau Dashboard
+
+View Interactive Dashboard:
+
+[Tableau Public Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/GuestExperienceOperationalPerformanceDashboard/Dashboard1)
+
+![Luxury Resort Dashboard](Dashboard.png)
