@@ -11,8 +11,7 @@
 5. Staffing Insights
 
 ### Tools Used
-- SQL
-- SQLite
+- SQL (SQLite)
 - Tableau Public
 - Excel
 
